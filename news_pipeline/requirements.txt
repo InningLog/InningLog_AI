@@ -1,2 +1,10 @@
 requests
 trafilatura
+python-dotenv
+
+numpy>=1.21
+scipy>=1.7
+scikit-learn>=1.1
+
+sentence-transformers>=2.2.2
+torch>=1.13
